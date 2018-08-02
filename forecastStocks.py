@@ -1,7 +1,7 @@
 # Recurrent Neural Network
 
 #added comment
-#added comment2
+
 
 
 # Part 1 - Data Preprocessing
